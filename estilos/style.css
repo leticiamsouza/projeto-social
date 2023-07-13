@@ -58,5 +58,5 @@ main {
     border: 2px solid rgba(255, 255, 255, 0.607);
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.489);
-    transition: transform 0.5s, border 1s;
+    transition: transform 0.5s, border 1s; /*..comando p/ animação dos botões..*/
 }
